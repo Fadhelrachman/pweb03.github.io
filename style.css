@@ -1,0 +1,44 @@
+body {
+    font-family: 'comic sans ms';
+    display: block;
+    align-items: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+table {
+    border-collapse: collapse;
+    border: 2px solid palevioletred;
+    width: 600px;
+    height: 400px;
+
+}
+
+tr {
+    border: 2px solid palevioletred;
+    justify-content: center;
+    
+}
+
+th {
+    font-size: 20px;
+    border: 2px solid palevioletred;
+}
+
+td {
+    border: 2px solid palevioletred;
+    justify-content: center;
+    text-align: center;
+}
+
+
